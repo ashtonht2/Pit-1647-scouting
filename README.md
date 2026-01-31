@@ -1,10 +1,8 @@
 <div id="top"></div>
 
-# Scouting P.A.S.S.
+# Pit Scouting
 
-#### A scouting system for FIRST FRC competitions developed by [PWNAGE - Team #2451](https://pwnagerobotics.org)
-
-<a href="https://PWNAGERobotics.github.io/ScoutingPASS">Live Demo</a> . <a href="https://PWNAGERobotics.github.io/ScoutingPASS/pit.html">Pit Scouting</a> . <a href="#getting-started">Getting Started</a> . <a href="#faq">FAQ</a>
+#### A pit scouting system for FIRST FRC competitions developed by MEEEEE
 
 ![Stars](https://img.shields.io/github/stars/PWNAGERobotics/ScoutingPASS?style=plastic) ![Forks](https://img.shields.io/github/forks/PWNAGERobotics/ScoutingPASS?style=plastic) ![watchers](https://img.shields.io/github/watchers/PWNAGERobotics/ScoutingPASS?style=plastic)
 <h1></h1>
